@@ -7,7 +7,7 @@
   📝 Check my <a href="https://britoskies.netlify.app/">portfolio</a> to get more info about me. <br> <br>
   🔭 I’m currently working on <b> Myself </b> <br>
   🌱 I’m currently learning <b> C# with ASP.NET & Angular </b> <br>
-  👯 I’m looking to collaborate on <b> FullStack projects with my team CidCode </b> <br>
+  👯 I’m looking to collaborate on <b> FullStack projects in a big company </b> <br>
   💬 Ask me about <b> React and Minimal Designs </b> <br>
   ⚡ Fun fact: Love basketball ❤🏀
 </div>
