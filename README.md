@@ -2,11 +2,10 @@
 <h3 align="center">A passionate Web Developer from Dominican Republic 🇩🇴</h3>
 
 <div align="center">
-  🎎 I'm currently open to work. <br>
+  🎎 I'm currently working at Banco Popular Dominicano as a Software Development Analyst RPA. <br>
   📫 Email via <a href="mailto:britoskies@gmail.com">britoskies@gmail.com</a> to reach me. <br>
   📝 Check my <a href="https://britoskies.netlify.app/">portfolio</a> to get more info about me. <br> <br>
-  🔭 I’m currently working on <b> Myself </b> <br>
-  🌱 I’m currently learning <b> C# with ASP.NET & Angular </b> <br>
+  🌱 I’m currently learning <b> C# with ASP.NET & BluePrism </b> <br>
   👯 I’m looking to collaborate on <b> FullStack projects in a big company </b> <br>
   💬 Ask me about <b> React and Minimal Designs </b> <br>
   ⚡ Fun fact: Love basketball ❤🏀
