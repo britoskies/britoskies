@@ -52,7 +52,7 @@
 <br>
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=britoskies&theme=tokyonight&layout=compact" alt="Most Used Languages" />
   </p>
@@ -61,4 +61,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=britoskies&show_icons=true&theme=tokyonight" alt="Github Stats" />
   </p>
 </div>
-
+ -->
